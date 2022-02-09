@@ -1,3 +1,5 @@
+; made my abdowns (me) @ github.com/abdowns Copyright 2022
+
 use16
 org 0x7c00
 
