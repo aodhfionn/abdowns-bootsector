@@ -1,2 +1,5 @@
 I used FASM Assembler to assemble this to a binary. (https://flatassembler.net/)
-Command to assemble: fasm bootsector.asm
+FASM Command to assemble: fasm bootsector.asm
+
+If you want to use NASM use this:
+nasm -fbin bootsector.asm -o bootsector.bin
